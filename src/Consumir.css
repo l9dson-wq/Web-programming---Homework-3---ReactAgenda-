@@ -1,0 +1,18 @@
+.myTable{
+    background-color: #903749;
+    font-size: 19px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tds{
+    color: black;
+}
+
+.ths{
+    color: white; 
+}
